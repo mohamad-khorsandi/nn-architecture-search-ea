@@ -1,0 +1,5 @@
+.idea/*
+env
+data
+/res_dir/total.png
+extracted_features/*
